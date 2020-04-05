@@ -8,7 +8,6 @@ date: 2009-02-06T20:50:50
 category: 
 featured_image: 
 ---
-<h1>Chemie lernen</h1>
 <p>Obwohl ich Wert auf korrekte Inhalte lege kann ich nicht für diese garantieren, deshalb sind alle Angaben ohne Gewähr.<br/>
 Wenn Sie Fehler finden, so bitte ich Sie mir diese zu <a href="kontakt.htm">melden</a>.<br/>
 </p>
