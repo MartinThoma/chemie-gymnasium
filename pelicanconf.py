@@ -37,7 +37,7 @@ RELATIVE_URLS = True
 
 THEME = './chemie-theme'
 
-DIRECT_TEMPLATES = (('index', '404', 'impressum', 'links', 'projekt'))
+DIRECT_TEMPLATES = (('404', 'impressum', 'links', 'projekt'))
 
 STATIC_PATHS = ['bilder',
                 'doc']

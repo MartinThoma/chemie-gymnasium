@@ -8,7 +8,7 @@
 <article id="content" class="body">
 <div class="row">
     <header class="page-header col-sm-10 col-md-10 col-md-offset-2">
-    <h1><a href="{{ SITEURL }}/{{ article.url }}"> {{ article.title }} {%if article.subtitle %} <small> {{ article.subtitle }} </small> {% endif %} </a></h1>
+    <h1><a href="{{ SITEURL }}/{{ article.url }}" style="color: black; border: 0; font-size: 32px;"> {{ article.title }} {%if article.subtitle %} <small> {{ article.subtitle }} </small> {% endif %} </a></h1>
     </header>
 </div>
 
@@ -18,11 +18,11 @@
     </div>
     <section style="margin-top: 30px; font-style: italic;font-size: 12px;">
         {% if article.date %}
-        -- Published
+        -- Letzte Bearbeitung am
         {% set day = article.date.strftime('%d')|int %}
-        <time pubdate="pubdate" datetime="{{ article.date.isoformat() }}" style="display:inline;">{{ article.date.strftime('%b') }} {{ day }} {{- article.date.strftime(', %Y') }}</time>
+        <time pubdate="pubdate" datetime="{{ article.date.isoformat() }}" style="display:inline;">{{ article.date.strftime('%d.%m.%Y') }}</time>
         {% endif %}
-        by <a rel="author" class="vcard author post-author" itemprop="author" href="{{ SITEURL }}/{{ article.author.url }}"><span class="fn" itemscope="" itemtype="https://schema.org/Person"><span itemprop="name">{{ article.author }}</span></span></a>
+        von <span class="fn" itemscope="" itemtype="https://schema.org/Person"><span itemprop="name">{{ article.author }}</span></span>
         {% if article.category|trim|count > 0 %}
 <!--         <h4>Category</h4>
         <a class="category-link" href="{{ SITEURL }}/categories.html#{{ category.slug }}-ref">{{ article.category }}</a> -->
