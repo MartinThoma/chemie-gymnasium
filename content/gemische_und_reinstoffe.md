@@ -1,15 +1,13 @@
 ---
 layout: post
 title: Gemische und Reinstoffe
-description: Gemische und Reinstoffe - Typen, Kenneigenschaften
+summary: Gemische und Reinstoffe - Typen, Kenneigenschaften
 slug: gemische_und_reinstoffe
 author: Martin Thoma
-date: 2019-01-17 20:00
-category: My bits and bytes
-tags: Machine Learning
+date: 2008-11-19T08:59:10
+category: Klasse-8
 featured_image: logos/star.png
 ---
-<h1>Gemische und Reinstoffe</h1>
 <dl><dt>Stoff (chem.)</dt><dd>jede Form von Materie</dd></dl>
 
 <p>Stoffe im Alltag: z.B. Duschgel, Tütensuppen, Mineralwasser, Waschmittel, Benzin ...<br/>

@@ -4,9 +4,19 @@
 <head>
         <meta charset="utf-8">
     <title>{% block title %}{{ SITENAME|striptags|e }}{% endblock title %}</title>
-    <meta name="description" content="{#description#}"/>
+    {% if article and article.author %}
+    <meta name="author" content="{{ article.author }}" />
+    <meta name="copyright" content="{{ article.author }}" />
+    <meta name="description" content="{{ article.summary }}"/>
+    {% elif page and page.author %}
+    <meta name="author" content="{{ page.author }}" />
+    <meta name="copyright" content="{{ page.author }}" />
+    <meta name="description" content="{{ page.summary }}"/>
+    {% else %}
+    <meta name="author" content="{{ AUTHOR }}" />
+    <meta name="copyright" content="{{ AUTHOR }}" />
+    {% endif %}
     <link type="image/x-icon" href="{{ SITEURL }}/theme/style/favicon.ico" rel="shortcut icon" />
-    <link rel="alternate" type="application/rss+xml" title="Chemie lernen - der Feed" href="http://www.martin-thoma.de/chemie/rss.php" />
     <style type="text/css" title="currentStyle" media="screen">
 	@import "{{ SITEURL }}/theme/style/default.css";
     </style>
@@ -24,16 +34,56 @@
 
 <div id="bigbox">
 <!--[if gte IE 5]><img style="width:0px; height: 0px;" src="clear.gif" /><![endif]-->
-<div id="content">
 {% block content %}
 {% endblock content %}
-</div>
 
 <p id="footer">
-<a href="impressum.htm">Impressum</a> | <a href="projekt.htm">&Uuml;ber dieses Projekt</a>
+<a href="{{ SITEURL }}/impressum.html">Impressum</a> | <a href="projekt.html">&Uuml;ber dieses Projekt</a>
 </p>
 
-{#navigation#}
+<ul id="nav">
+<li id="home"><a href="{{ SITEURL }}/index.html">Startseite</a>
+</li>
+<li class="klasse"><a href="{{ SITEURL }}/klasse8.htm">8. Klasse</a>
+<ul>
+<li><a href="{{ SITEURL }}/gemische_und_reinstoffe.htm">Gemische und Reinstoffe</a></li>
+<li><a href="{{ SITEURL }}/chemische_reaktion.htm">Die chemische Reaktion</a></li>
+<li><a href="{{ SITEURL }}/teilchenstrucktur_der_materie.htm">Teilchenstruktur der Materie</a></li>
+<li><a href="{{ SITEURL }}/chemische_grundgesetze.htm">Chemische Grundgesetze</a></li>
+<li><a href="{{ SITEURL }}/chemisches_rechnen.htm">Chemisches Rechnen</a></li>
+<li><a href="{{ SITEURL }}/gruppierung_chemischer_reaktionen.htm">Gruppierung von Reaktionen</a></li>
+<li><a href="{{ SITEURL }}/bau_der_atome.htm">Bau der Atome</a></li>
+<li><a href="{{ SITEURL }}/salze.htm">Salze</a></li>
+<li><a href="{{ SITEURL }}/metalle.htm">Metalle</a></li>
+</ul>
+</li>
+<li class="klasse"><a href="{{ SITEURL }}/klasse9.htm">9. Klasse</a>
+<ul>
+<li><a href="{{ SITEURL }}/salze.htm">Salze</a></li>
+<li><a href="{{ SITEURL }}/elementgruppen.htm">Elementgruppen des PSE</a></li>
+<li><a href="{{ SITEURL }}/molekulare_stoffe.htm">Molekulare Stoffe</a></li>
+<li><a href="{{ SITEURL }}/protonenuebergaenge.htm">Protonen&uuml;berg&auml;nge</a></li>
+<li><a href="{{ SITEURL }}/elektronenuebergaenge.htm">Elektronen&uuml;berg&auml;nge</a></li>
+</ul>
+</li>
+<li class="klasse"><a href="{{ SITEURL }}/klasse10.htm">10. Klasse</a>
+<ul>
+<li><a href="{{ SITEURL }}/atombau_der_nebengruppen.htm">Atombau der Nebengruppen</a></li>
+<li><a href="{{ SITEURL }}/komplexverbindungen.htm">Komplexverbindungen</a></li>
+<li><a href="{{ SITEURL }}/protolysegleichgewichte.htm">Protolysegleichgewichte</a></li>
+<li><a href="{{ SITEURL }}/elektrochemie.htm">Elektrochemie</a></li>
+</ul>
+</li>
+<li class="klasse"><a href="{{ SITEURL }}/klasse11.htm">11. Klasse</a>
+<ul>
+<li><a href="{{ SITEURL }}/reaktionsgeschwindigkeit_start.htm">Reaktionsgeschwindigkeit</a></li>
+</ul>
+</li>
+<li id="link"><a href="{{ SITEURL }}/links.html">Links</a>
+</li>
+<li id="impressum"><a href="{{ SITEURL }}/impressum.html">Impressum</a>
+</li>
+</ul>
 </div>
 </body>
 </html>
