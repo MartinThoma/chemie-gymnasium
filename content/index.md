@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Chemie lernen
-slug: foo
+summary: Lerne Chemie online - von den Grundlagen bis zur Komplexchemie!
+slug: index
 author: Martin Thoma
-date: 2019-01-17 20:00
-category: My bits and bytes
-tags: Machine Learning
-featured_image: logos/star.png
+date: 2009-02-06T20:50:50
+category: 
+featured_image: 
 ---
 <h1>Chemie lernen</h1>
 <p>Obwohl ich Wert auf korrekte Inhalte lege kann ich nicht für diese garantieren, deshalb sind alle Angaben ohne Gewähr.<br/>

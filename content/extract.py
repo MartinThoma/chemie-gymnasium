@@ -1,15 +1,27 @@
-import pymysql
-import os
+# Core Library modules
 import datetime
+import os
+import re
+
+# Third party modules
+import pymysql
 
 
 def generate_file(d):
-    filename = os.path.abspath(d['filename'])
+    new_filename = d["filename"].split(".")[0] + ".md"
+    filename = os.path.abspath(new_filename)
     # if os.path.isfile(filename):
     #     return
-    date = datetime.datetime.utcfromtimestamp(d['last_edited'])
+    date = datetime.datetime.utcfromtimestamp(d["last_edited"])
+
+    pattern = re.compile("<h1>.*?</h1>\n")
+
+    content = d["content"]
+    content = re.sub(pattern, "", content)
+
     with open(filename, "w") as f:
-        f.write(f"""---
+        f.write(
+            f"""---
 layout: post
 title: {d['title']}
 summary: {d['description']}
@@ -19,16 +31,17 @@ date: {date:%Y-%m-%dT%H:%M:%S}
 category: 
 featured_image: 
 ---
-{d['content']}
-""")
+{content}
+"""
+        )
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     mydb = pymysql.connect(
         host="localhost",
         user="root",
-        passwd=os.environ['MYSQL_PW'],
-        database="martin-thoma-de"
+        passwd=os.environ["MYSQL_PW"],
+        database="martin-thoma-de",
     )
 
     cursor = mydb.cursor(pymysql.cursors.DictCursor)
