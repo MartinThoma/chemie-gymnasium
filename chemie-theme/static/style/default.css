@@ -1,0 +1,425 @@
+* {
+	margin		: 0;
+	padding		: 0;
+}
+
+html {
+	background-color: #eef;
+	font		: 100% sans-serif;
+	color		: #335; 
+}
+img.bordered, img.gallery {
+	border		: 1px solid #dedede;
+	margin		: 10px;
+	padding		: 7px;
+	float		: right;
+}
+
+div#bigbox {
+	padding-top	: 104px;
+	margin		: 20px auto 0px auto;
+	width		: 820px;
+	height		: 400px;
+	background	: transparent url(banner.png) no-repeat;
+	z-index		: -1;
+}
+
+
+
+#info {
+	position	: absolute;
+	top		: 80px;
+	left		: 200px;
+}
+#footer {
+	position	: relative;
+	margin-top	: 10px;
+	margin-bottom	: 10px;
+	padding		: 3px;
+	float		: right;
+	background-color: #fff;
+	border		: 1px solid #ccc;
+	width		: 814px;
+	text-align	: center;
+}
+a {
+	text-decoration	: none;
+}
+#content a {
+	border-bottom	: 1px dotted;
+}
+#content a:visited {
+	color		: #f00;
+}
+#content a:focus, #content a:hover {
+	color		: #062;
+}
+
+
+#content form.kontakt label {
+	display		: block;
+}
+#content form.kontakt input, form.kontakt select {
+	width		: 250px;
+	background	: url(field_bg.gif) left center repeat-x;
+	border		: 0px dashed #fff;
+	border-bottom	: 1px dashed #62B7FF;
+	margin-bottom	: 15px;
+}
+#content form.kontakt textarea {
+	width		: 420px;
+}
+#content form legend {
+	background	: url(50px-Crystal_Clear_app_email.png) left center no-repeat;
+	padding		: 20px 5px 15px 60px;
+	margin		: 5px 5px 10px 15px;
+	font-size	: 20px;
+}
+#content fieldset {
+	padding		: 15px;
+	background: white url(wforms_bg.gif) bottom repeat-x;
+}
+
+
+
+#content {
+	display		: block;
+	float		: right;
+	width		: 600px;
+	min-height	: 410px;
+	background-color: #fff;
+	border		: 2px solid #ccc;
+	padding		: 0 20px 20px 20px;
+}
+#content span.versuch {
+	font-weight	: bold;
+	color		: #800;
+	padding-right	: 5px;
+}
+#content ul {
+	padding-left	: 30px;
+	list-style	: disc url(li.gif) inside;
+	margin-bottom	: 7px;
+}
+#content ol {
+	padding-left	: 32px;
+	list-style-position: inside;
+	margin-bottom	: 7px;
+}
+
+#content h1, #content h2, #content h3 {
+	padding-top	: 20px;
+	padding-bottom	: 10px;
+	color		: #000;
+	clear		: both;
+}
+
+
+/* Tabellen ##################################################*/
+#content table {
+	border-collapse	: collapse;
+	margin		: auto;
+	margin-bottom	: 5px;
+	overflow	: scroll;
+	max-width	: 600px;
+}
+#content td {
+	padding		: 3px;
+}
+
+#content table.style1, #content table.style2 {
+	width:90%;
+	border-top:1px solid #e5eff8;
+	border-right:1px solid #e5eff8;
+	margin:5px auto;
+}
+#content table.style1 td, #content table.style2 td {
+	color		:#678197;
+	border-bottom	:1px solid #e5eff8;
+	border-left	:1px solid #e5eff8;
+	padding		:.3em 1em;
+	text-align	:center;
+}
+#content table.style2 td {
+	text-align	: left;
+}
+#content table.style1 th, #content table.style2 th {
+	border-bottom	:1px solid #e5eff8;
+	border-left	:1px solid #e5eff8;
+	background	:#f4f9fe;
+	text-align	:center;
+	font		:bold 1em/1.5em "Century Gothic","Trebuchet MS",Arial,Helvetica,sans-serif;
+	color		:#66a3d3;
+}
+#content table.style1 caption, #content table.style2 caption {
+	font		: 0.94em/160% "Trebuchet MS",Verdana,Arial,Helvetica,sans-serif;
+	color		: #9ba9b4;
+	letter-spacing	:.1em;
+	font-weight	:bold;
+	margin		:1em 0 0 0;
+	padding		:0;
+	caption-side	:top;
+	text-align	:center;
+}
+#content table.style1 tr.odd td, tr.odd .column1, #content table.style2 tr.odd td {
+	background-color: #f4f9fe;
+
+}
+#content table.style1 td.c1 {
+       border:1px solid #e5eff8;
+
+	position	: relative;
+	padding-left	: 10px;
+	text-align	: left;
+	font-family	: arial;
+}
+
+/* Zitate ##################################################*/
+#content cite {
+	position	: relative;
+	padding-left	: 10px;
+	clear		: both;
+	color		: #333;
+	font		: italic 70% arial;
+	padding-top	: 12px;
+}
+blockquote.style1 {
+	font		: italic 14px/20px Times, serif;
+	padding		: 8px;
+	border-top	: 1px solid #e1cc89;
+	border-bottom	: 1px solid #e1cc89;
+	margin		: 5px;
+	background	: #faebbc url(openquote1.gif) no-repeat top left;
+	text-indent	: 23px;
+}
+blockquote.style1 span {
+	display		: block;
+	background	: transparent url(closequote1.gif) no-repeat bottom right;
+}
+
+div.knowledge {
+	clear		: both;
+	border		: 1px solid #d7b97b;
+}
+p.knowledge {
+	background-color: #d7b97b;
+	margin		: 0;
+	font-size	: 0.9em;
+	font-weight	: bold;
+	color		: white;
+	padding		: 0 1em;
+}
+div.knowledge ol {
+	margin-top	: 10px;
+	margin-left	: 30px;
+	margin-bottom	: 5px;
+}
+
+sub, sup {
+	line-height	: 0px;
+	font-size	: 60%;
+	font-family	: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+#content p {
+	position	: relative;
+	padding-left	: 10px;
+	text-align	: justify;
+	font-family	: arial;
+	margin-bottom	: 7px;
+}
+#content p.subtitle {
+	color		: #333;
+	font		: italic 70% arial;
+	margin-top	: 0;
+	margin-bottom	: 0;
+	padding-top	: 0;
+	padding-left	: 35px;
+	padding-bottom	: 20px;
+}
+#content dt {
+	clear		: both;
+	color		: #333;
+	font		: italic 70% arial;
+	padding-top	: 10px;
+}
+
+#content dd {
+	background	: #fcc;
+	border		: 1px solid #933;
+	margin-bottom	: 15px;
+	padding		: 5px;
+}
+#content p.def_text {
+	clear		: both;
+	color		: #333;
+	font		: italic 70% arial;
+	padding-top	: 10px;
+}
+#content p.def {
+	background	: #fcc;
+	border		: 1px solid #933;
+	margin-bottom	: 15px;
+	padding		: 5px;
+}
+#content p.code {
+	color		: #fff;
+	font		: 100% monospace,courier,sans;
+	background	: #000;
+	background-color: #454545;
+	border		: 1px solid #666;
+	clear		: both;
+	margin		: 0.3em 1em;
+}
+#content p.gleichung {
+	color		: #333;
+	font		: 100% courier,sans;
+	background	: #dfd;
+	margin-bottom	: 5px;
+	border		: 1px dashed #333;
+	padding-bottom	: 3px;
+}
+#content .green {
+	color		: rgb(51, 153, 102);
+}
+#content p.u, span.u, td.u {
+	text-decoration	: underline;
+}
+#content .important {
+	font-weight	: bold;
+	color		: maroon;
+}
+#content span.tab {
+	width		: 130px;
+	display		: block;
+	float		: left;
+}
+#content .geg {
+	text-decoration	: underline;
+}
+#content p#sources{
+    border-top		: 1px solid #dedede;
+    padding-left	: 25px;
+
+}
+#content a[href$='.pdf'], #content a[href ^="mailto:"], #content a[class ="popup"], #content a[href$='.doc'], #content a[href$='.xls'], #content a[target ='_blank'], #content a[href$='.ps'], #content a[href$='.exe'], #content a[href^='http://'], #content a[href^='http://de.wiki'], #content a[href^='http://en.wiki'], #content a[href^='http://www.youtube.com'] {
+	padding-left	: 18px;
+}
+#content a[href$='.doc'] { 
+	background	: transparent url(icon_set.gif) no-repeat 0 0;
+}
+#content a[target ='_blank'], #content a[href^='http://'] {
+	background	: transparent url(icon_set.gif) no-repeat 0 -20px;
+}
+#content a[href ^="mailto:"] {
+	background	: transparent url(icon_set.gif) no-repeat 0 -38px;
+}
+#content a[href$='.pdf'] { 
+	background	: transparent url(icon_set.gif) no-repeat 0 -56px;
+}
+#content a[href$='.ps'] { 
+	background	: transparent url(icon_set.gif) no-repeat 0 -76px;
+}
+#content a[href$='.xls'] { 
+	background	: transparent url(icon_set.gif) no-repeat 0 -99px;
+}
+#content a[href$='.exe'] { 
+	background	: transparent url(icon_set.gif) no-repeat 0 -200px;
+}
+#content a[href^='http://de.wiki'], a[href^='http://en.wiki']{
+	background	: transparent url(icon_set.gif) no-repeat 0 -225px;
+}
+#content a[href^='http://www.youtube.com'] {
+	background	: transparent url(icon_set.gif) no-repeat 0 -243px;
+}
+
+li#home, li#link, li#forum, li#impressum, li.klasse, li#kontakt {
+	padding-left:16px;
+}
+
+li#home {	background: url(house.png) no-repeat left center;}
+li#link {	background: url(link.png) no-repeat left center;}
+li#forum {	background: url(group.png) no-repeat left center;}
+li#impressum {	background: url(information.png) no-repeat left center;}
+li#kontakt {	background: url(phone.png) no-repeat left center;}
+li.klasse {	background: url(asterisk_orange.png) no-repeat left center;}
+
+/* Navigation */
+#nav {
+	position	: absolute;
+	top		: 124px;
+	border		: 2px solid #ccc;
+	background	: #fff url(chem_top.jpg) no-repeat;
+	padding		: 108px 0 10px 10px;
+	list-style	: none;
+	width		: 150px;
+}
+#nav a {
+	text-decoration:none;
+	display:block;
+	min-width: 150px;
+	color: blue;
+	font-weight:bold;
+	padding-left: 10px;
+	padding-top:3px;
+}
+#nav li {
+	position:relative;
+	line-height: 2em;
+}
+#nav li ul {
+	position:absolute;
+	left:129px;
+	top:0px;
+	list-style:none;
+	display:none;
+}
+#nav ul li {
+	line-height: 1em;
+}
+#nav li ul a{
+	display:block;
+	text-decoration:none;
+	color:#777;
+	background:#fff;
+	padding:5px;
+	border:1px solid #ccc;
+	border-bottom:0;
+}
+#nav li:hover ul, #nav li.sfhover ul {
+	display:block;
+	z-index:2;
+}
+
+#nav li:hover, #nav li.sfhover, #nav li ul a:hover{
+	background-color: #eef;
+}
+
+/* Lightbox */
+#lightbox{	position: absolute;	left: 0; width: 100%; z-index: 100; text-align: center; line-height: 0;}
+#lightbox img{ width: auto; height: auto;}
+#lightbox a img{ border: none; }
+
+#outerImageContainer{ position: relative; background-color: #fff; width: 250px; height: 250px; margin: 0 auto; }
+#imageContainer{ padding: 10px; }
+
+#loading{ position: absolute; top: 40%; left: 0%; height: 25%; width: 100%; text-align: center; line-height: 0; }
+#hoverNav{ position: absolute; top: 0; left: 0; height: 100%; width: 100%; z-index: 10; }
+#imageContainer>#hoverNav{ left: 0;}
+#hoverNav a{ outline: none;}
+
+#prevLink, #nextLink{ width: 49%; height: 100%; background-image: url(data:image/gif;base64,AAAA); /* Trick IE into showing hover */ display: block; }
+#prevLink { left: 0; float: left;}
+#nextLink { right: 0; float: right;}
+#prevLink:hover, #prevLink:visited:hover { background: url(prevlabel.gif) left 15% no-repeat; }
+#nextLink:hover, #nextLink:visited:hover { background: url(nextlabel.gif) right 15% no-repeat; }
+
+#imageDataContainer{ font: 10px Verdana, Helvetica, sans-serif; background-color: #fff; margin: 0 auto; line-height: 1.4em; overflow: auto; width: 100%	; }
+
+#imageData{	padding:0 10px; color: #666; }
+#imageData #imageDetails{ width: 70%; float: left; text-align: left; }	
+#imageData #caption{ font-weight: bold;	}
+#imageData #numberDisplay{ display: block; clear: left; padding-bottom: 1.0em;	}			
+#imageData #bottomNavClose{ width: 66px; float: right;  padding-bottom: 0.7em; outline: none;}	 	
+
+#overlay{ position: absolute; top: 0; left: 0; z-index: 90; width: 100%; height: 500px; background-color: #000; }

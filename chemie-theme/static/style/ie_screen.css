@@ -1,0 +1,13 @@
+#content {
+	margin-top: -16px;
+} 
+
+#nav {
+	width : 150px;
+	border-right: 0px;
+}
+
+#nav li ul li {
+	z-index: 10;
+	background-color: #fff;
+}

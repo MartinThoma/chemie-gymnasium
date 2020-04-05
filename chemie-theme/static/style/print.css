@@ -1,0 +1,37 @@
+
+div#bigbox {
+	padding-top: 20px;
+	margin	: auto;
+	width	: 820px;
+}
+
+
+
+#info {
+	position:absolute;
+	top: 80px;
+	left: 200px;
+}
+#footer {
+	display	: none;
+}
+
+#content {
+	display:block;
+	margin: 10px;
+
+
+	width: 100%;
+	min-height: 380px;
+	background-color: #fff;
+	border: 0px solid #ccc;
+	padding:20px;
+	padding-top:0;
+	z-index: 1;
+}
+
+
+/* Navigation */
+#nav {
+	display	: none;
+}
