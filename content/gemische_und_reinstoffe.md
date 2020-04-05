@@ -5,8 +5,8 @@ summary: Gemische und Reinstoffe - Typen, Kenneigenschaften
 slug: gemische_und_reinstoffe
 author: Martin Thoma
 date: 2008-11-19T07:59:10
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <dl><dt>Stoff (chem.)</dt><dd>jede Form von Materie</dd></dl>
 

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Quellenverzeichnis
-summary: 
+summary:
 slug: quellen
 author: Martin Thoma
 date: 2008-10-30T06:23:56
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <p>Hier werden alle Materialien (Texte, Bilder, Grafiken, Filmsequenzen, Musik, Quellcodes...) aufgelistet, die ich nicht selbst erstellt habe:</p>
 <table class="style2"><caption>Quellenverzeichnis vom 17.10.2008</caption><tbody>

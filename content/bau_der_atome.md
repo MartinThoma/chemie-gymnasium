@@ -5,8 +5,8 @@ summary: Aufbau der Atome: Das Bohr'sche Atommodell; Radioaktivität
 slug: bau_der_atome
 author: Martin Thoma
 date: 2008-09-11T18:20:13
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <h1>Bau der Atome</h1>
 <p>Demokrit, 400 v. Chr.: kleinste unteilbare Bausteine<br/>

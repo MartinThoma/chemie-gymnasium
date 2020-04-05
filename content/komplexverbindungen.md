@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Komplexverbindungen
-summary: 
+summary:
 slug: komplexverbindungen
 author: Martin Thoma
 date: 2008-12-09T05:11:19
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <p><span class="versuch">V</span> Cu<sup>2+</sup>-Lösung wird mit NH<sub>3</sub> versetzt</p>
 <p>Cu<sup>2+</sup> + 4 NH<sub>3</sub> &#8594; [Cu(NH<sub>3</sub>)<sub>4</sub>]<sup>2+</sup> (Komplexverbindung)</p>

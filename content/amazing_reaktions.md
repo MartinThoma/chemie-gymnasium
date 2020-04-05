@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Spektakuläre Versuche
-summary: 
+summary:
 slug: amazing_reaktions
 author: Martin Thoma
 date: 2008-12-08T15:04:54
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <h2>Natrium und Wasser in Chlorgas</h2>
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Mx5JJWI2aaw&hl=de&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Mx5JJWI2aaw&hl=de&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object><h2>Briggs-Rauscher-Reaktion</h2>

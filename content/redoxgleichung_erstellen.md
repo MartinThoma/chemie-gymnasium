@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Redoxgleichung erstellen
-summary: 
+summary:
 slug: redoxgleichung_erstellen
 author: Martin Thoma
 date: 2008-11-20T05:37:26
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <div class="knowledge"><p class="knowledge">Diese Lerneinheit setzt die Kenntnis folgender Seiten voraus:</p>
 <ol>

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Statistik
-summary: 
+summary:
 slug: statistik
 author: Martin Thoma
 date: 2008-12-30T16:59:53
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <p>Im Dezember 2008 waren 3312 Besucher auf meiner Website.<br/>
 Man kann sagen dass ab dem 20. Dezember praktisch niemand mehr auf die Website gegangen ist. Auch Freitags und Samstags sind deutlich weniger Leute auf die Website gegangen als an anderen Wochentagen. Zwischen 14 und 19 Uhr besuchen die meisten Leute meine Website, zwischen 4 und 5 Uhr praktisch niemand.</p>

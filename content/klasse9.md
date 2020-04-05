@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 9. Klasse
-summary: 
+summary:
 slug: klasse9
 author: Martin Thoma
 date: 2008-11-16T07:20:28
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <table class="style1"><caption> Vorgesehene Wochenstunden für einen Themenbereich</caption>
 <tr><th></th><th>Bayern</th>

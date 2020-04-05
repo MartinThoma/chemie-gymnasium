@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Die Oxidationszahl
-summary: 
+summary:
 slug: oxidationszahl
 author: Martin Thoma
 date: 2008-11-18T06:00:00
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <dl><dt>Oxidationszahl</dt><dd>Die Oxidationszahl entspricht der hypothetischen Ionenzahl eines Atoms in einer Verbindung</dd></dl>
 

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Fette
-summary: 
+summary:
 slug: fette
 author: Martin Thoma
 date: 2008-10-29T19:35:08
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <h2>Aufbau von Fetten</h2>
 <h2>Eigenschaften</h2>

@@ -37,9 +37,7 @@ use the following ``SITEMAP`` setting.
 
 .. code-block:: python
 
-    SITEMAP = {
-        'exclude': ['tag/', 'category/']
-    }
+    SITEMAP = {"exclude": ["tag/", "category/"]}
 
 If a key is missing or a value is incorrect, it will be replaced with the
 default value.
@@ -57,18 +55,10 @@ Here is an example configuration (it's also the default settings):
 
 .. code-block:: python
 
-    PLUGINS=['pelican.plugins.sitemap',]
+    PLUGINS = ["pelican.plugins.sitemap"]
 
     SITEMAP = {
-        'format': 'xml',
-        'priorities': {
-            'articles': 0.5,
-            'indexes': 0.5,
-            'pages': 0.5
-        },
-        'changefreqs': {
-            'articles': 'monthly',
-            'indexes': 'daily',
-            'pages': 'monthly'
-        }
+        "format": "xml",
+        "priorities": {"articles": 0.5, "indexes": 0.5, "pages": 0.5},
+        "changefreqs": {"articles": "monthly", "indexes": "daily", "pages": "monthly"},
     }

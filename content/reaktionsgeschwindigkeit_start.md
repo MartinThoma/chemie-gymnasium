@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Die Reaktionsgeschwindigkeit
-summary: 
+summary:
 slug: reaktionsgeschwindigkeit_start
 author: Martin Thoma
 date: 2008-10-13T04:09:21
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <p><span class="versuch">V</span> Einwirkung von Säure (HCl) auf verschiedene Metalle (Fe, Mg)<br/>
 <span class="versuch">B</span> Gasentwicklung</p>

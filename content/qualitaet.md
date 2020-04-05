@@ -5,8 +5,8 @@ summary: Qualitätssicherung auf martin-thoma.de
 slug: qualitaet
 author: Martin Thoma
 date: 2008-11-17T14:55:18
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <p>Die Qualität einer Website spielt eine wesentliche Rolle, wenn man mit ihr lernen will. Aus diesem Grund definiere ich hier eine Qualitätsmerkmale, die ich mit der Zeit auf jeder Seite anwenden will.<br/>
 Eine Website muss ...</p>

@@ -88,7 +88,7 @@ class TestToCGeneration(unittest.TestCase):
         toc.generate_toc(article_without_headers)
         with self.assertRaises(AttributeError):
             self.assertIsNone(article_without_headers.toc)
- 
+
 
 if __name__ == "__main__":
     unittest.main()

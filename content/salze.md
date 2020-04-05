@@ -5,8 +5,8 @@ summary: Salze bestehen aus Metall und Nichtmetall. Sie bilden sich, indem das M
 slug: salze
 author: Martin Thoma
 date: 2008-11-07T09:09:46
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <dl><dd>Salze bestehen aus <span style="color: red;">Metall</span> und <span style="color: lime;">Nichtmetall</span></dd></dl>
 

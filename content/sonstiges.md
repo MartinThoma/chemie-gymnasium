@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Sonstige Dokumente
-summary: 
+summary:
 slug: sonstiges
 author: Martin Thoma
 date: 2008-11-02T15:05:54
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <p>Weitere Artikel:</p>
 <ul>

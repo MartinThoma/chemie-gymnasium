@@ -5,8 +5,8 @@ summary: Elementgruppen: Alkalimetalle, Erdalkalimetalle und Halogene
 slug: elementgruppen
 author: Martin Thoma
 date: 2008-11-08T09:54:49
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <table width="100%"><tbody>
 <tr>

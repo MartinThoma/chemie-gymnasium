@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Einflussgrößen auf die Reaktionsgeschwindigkeit
-summary: 
+summary:
 slug: reaktionsgeschwindigkeit
 author: Martin Thoma
 date: 2008-11-12T06:31:31
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <h2>2.1. Zerteilungsgrad</h2>
 <p><span class="versuch">V</span> Unterschiedlicher Zerteilungsgrad von Magnesium mit Salzsäure</p>

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Links
-summary: 
+summary:
 slug: links
 author: Martin Thoma
 date: 2008-11-20T05:38:39
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <dl><dt>Haftungsausschluss</dt><dd>Unsere Seiten enthalten Links auf externe Webseiten Dritter. Auf die Inhalte dieser verlinkten Webseiten haben wir keinen Einfluss. Für die Richtigkeit der Inhalte ist immer der jeweilige Anbieter oder Betreiber verantwortlich, weshalb wir diesbezüglich keinerlei Gewähr übernehmen.<br/>
 <br/>
@@ -26,7 +26,7 @@ Die fremden Webseiten haben wir zum Zeitpunkt der Verlinkung auf mögliche Recht
     <li><a href="http://www.kraus-harald.de/Chemie/9.%20Klasse/Stochiometrie/Stoechiometrie.html">Stöchiometrie</a></li>
 </ul>
 
-<a href="http://www.seilnacht.com/Chemie.htm">Das virtuelle Chemielabor</a> (Gewinner des Jugendsoftwarepreises 2001) 
+<a href="http://www.seilnacht.com/Chemie.htm">Das virtuelle Chemielabor</a> (Gewinner des Jugendsoftwarepreises 2001)
 
 <ul>
     <li><a href="http://www.seilnacht.com/Minerale/index.htm">Minerale</a></li>

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Die Brennstoffzelle
-summary: 
+summary:
 slug: brennstoffzelle
 author: Martin Thoma
 date: 2008-11-22T06:50:58
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <dl><dt>Brennstoffzelle</dt><dd>Galvanische Zelle, bei der Reduktions- und Oxidationsmittel kontinuierlich zugeführt werden. Sie besitzt einen Wirkungsgrad von 80%- 90%.</dd></dl><h2>1. Reaktion der Knallgas-Brennstoffzelle</h2>
 <p class="gleichung"> Kathode: 2 H<sub>2</sub>O + 2 O<sub>2</sub> + 4 e<sup>-</sup> &#8594; 4OH<sup>-</sup><br/>

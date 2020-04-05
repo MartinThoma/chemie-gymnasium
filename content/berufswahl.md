@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Welche Berufe kann ich in der Chemie wählen?
-summary: 
+summary:
 slug: berufswahl
 author: Martin Thoma
 date: 2008-10-13T04:57:32
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <ul>
     <li>(Diplom) <a href="http://de.wikipedia.org/wiki/Chemiker">Chemiker</a></li>

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Elektronenübergänge
-summary: 
+summary:
 slug: elektronenuebergaenge
 author: Martin Thoma
 date: 2008-11-09T06:34:00
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <div class="knowledge"><p class="knowledge">Diese Lerneinheit setzt die Kenntnis folgender Seiten voraus:</p>
 <ol>

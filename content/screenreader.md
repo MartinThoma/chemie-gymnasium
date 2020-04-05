@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Screenreader
-summary: 
+summary:
 slug: screenreader
 author: Martin Thoma
 date: 2008-10-14T05:56:11
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <h2>Für Ubuntu</h2>
 <ul>

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Metalle
-summary: 
+summary:
 slug: metalle
 author: Martin Thoma
 date: 2008-11-06T12:46:57
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <h2>1. Geschichte der Metalle</h2>
 <ul>

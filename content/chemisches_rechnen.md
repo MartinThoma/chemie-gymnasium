@@ -5,8 +5,8 @@ summary: Stöchiometrische Wertigkeit, Namen der Verbindungen, Stoffmengenverhä
 slug: chemisches_rechnen
 author: Martin Thoma
 date: 2008-11-09T17:36:42
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <h1>Stöchiometrie -<br/>
 chemisches Rechnen</h1>

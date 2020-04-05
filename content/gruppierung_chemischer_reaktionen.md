@@ -5,8 +5,8 @@ summary: Gruppieren chemischer Reaktionen in Oxidation und Reduktion
 slug: gruppierung_chemischer_reaktionen
 author: Martin Thoma
 date: 2008-12-03T06:02:10
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <h2>1. Oxidation</h2>
 <p><span class="versuch">V</span>Eine Kerze wird angezündet<br/>
@@ -87,7 +87,7 @@ z.B. Kohlenstoffdioxid (CO<sub>2</sub>)</p>
     <td>Ozon</td>
     <td>O<sub>3</sub></td>
     <td>NO<sub>2</sub>&#8594;NO<br/>
-Autobahnen </td><td class="c1">Starke Reaktion 
+Autobahnen </td><td class="c1">Starke Reaktion
 
 <ul>
     <li>Zellmembranen</li>
@@ -126,7 +126,7 @@ Flurkohlen­wasserstoffe (FCKWs) </td>
     <td>CH<sub>3</sub>Cl<br/>
 CFCl<sub>3</sub><br/>
 CFCl<sub>2</sub></td>
-    <td>Chemische Reaktionen im Meerwasser</td><td class="c1">In der Atmosphäre freisetzung von Cl-Atomen durch Reaktion durch Licht &#8594; Ozon wird durch Cl-Atome zersetzt. Es wird mehr Ozon zersetzt als Produziert wird: 
+    <td>Chemische Reaktionen im Meerwasser</td><td class="c1">In der Atmosphäre freisetzung von Cl-Atomen durch Reaktion durch Licht &#8594; Ozon wird durch Cl-Atome zersetzt. Es wird mehr Ozon zersetzt als Produziert wird:
 
 <ul>
     <li>Entstehung eines Ozonlochs</li>
@@ -178,7 +178,7 @@ CH<sub>4</sub> + 4 NO &#8594; 2 H<sub>2</sub>O + CO<sub>2</sub> + 2 N<sub>2</sub
 CaCO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> &#8594; CaSO<sub>4</sub> + CO<sub>2</sub> + H<sub>2</sub>O</p>
 <h3>Vielfalt und Bedeutung von Oxidationsprozessen</h3>
 <ol>
-    <li>Stille Oxidation (exotherm), z.B. 
+    <li>Stille Oxidation (exotherm), z.B.
 
 <ul>
     <li>Rosten von Eisen<br/>
@@ -190,7 +190,7 @@ C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> &#8594; 6 H<sub>2</sub>O + 6 CO<sub>2</
 </ul>
 
 </li>
-    <li>Verbrennung, z.B.: 
+    <li>Verbrennung, z.B.:
 
 <ul>
     <li>Kerze (vereinfacht)<br/>
@@ -204,7 +204,7 @@ C<sub>12</sub>H<sub>32</sub> + 23 O<sub>2</sub> &#8594; 15 CO<sub>2</sub> + 16 H
 </ul>
 
 </li>
-    <li>Explosion, z.B.: 
+    <li>Explosion, z.B.:
 
 <ul>
     <li>Benzinmotor<br/>

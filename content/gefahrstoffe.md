@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Gefahrstoffe
-summary: 
+summary:
 slug: gefahrstoffe
 author: Martin Thoma
 date: 2008-11-14T22:48:17
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <table class="style1">
 <tr><th></th><th></th><th>Gefahrenbezeichnung</th>

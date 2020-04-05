@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Tools für chemische Zeichnungen
-summary: 
+summary:
 slug: tools
 author: Martin Thoma
 date: 2008-10-11T08:36:01
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <h2>Bewertungskriterien</h2>
 <p>Um die folgenden Programme richtig bewerten zu können werde ich mit jeden dieser Programme versuchen ein <a href="http://upload.wikimedia.org/wikipedia/commons/0/06/DL-Glucose.svg">Traubenzuckermolekül</a> zu zeichnen. Dann werden die Programme unter folgenden Aspekten bewertet:</p>

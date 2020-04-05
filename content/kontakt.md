@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Kontakt
-summary: 
+summary:
 slug: kontakt
 author: Martin Thoma
 date: 2008-09-07T19:49:27
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <h1>Kontakt</h1>
 <form method="post" action="send_email.php" class="kontakt" name="feedback">

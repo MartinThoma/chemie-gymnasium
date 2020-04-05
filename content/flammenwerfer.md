@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Flammenwerfer
-summary: 
+summary:
 slug: flammenwerfer
 author: Martin Thoma
 date: 2008-09-07T14:55:38
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <p>Das Reagenzglas ist danach kaputt und es kann einige Meter spritzen</p>
 <ul>

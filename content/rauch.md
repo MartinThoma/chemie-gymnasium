@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Rauch
-summary: 
+summary:
 slug: rauch
 author: Martin Thoma
 date: 2008-09-07T14:58:27
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <ul>
     <li>2 Erlenmeyerkolben mit Ableitung</li>

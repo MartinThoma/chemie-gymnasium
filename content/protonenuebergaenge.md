@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Protonenübergänge
-summary: 
+summary:
 slug: protonenuebergaenge
 author: Martin Thoma
 date: 2008-12-10T06:47:43
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <h2>1. Wasserstoffchlorid, eine Säure</h2>
 <h2>2. Ammoniak, eine Base</h2>

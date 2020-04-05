@@ -5,8 +5,8 @@ summary: Chemische Grundgesetze - konstante sowie multible Proportionen
 slug: chemische_grundgesetze
 author: Martin Thoma
 date: 2008-11-02T08:37:58
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <dl><dt>Gesetz der Erhaltung der Masse</dt><dd>In allen chemischen Reaktionen bleibt die Gesamtmasse gleich!</dd></dl><h2>Gesetz der konstanten Proportionen</h2>
 <p><span class="important">V</span> Simulation mit Lego<br/>

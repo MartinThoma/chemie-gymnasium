@@ -5,8 +5,8 @@ summary: Wasser
 slug: wasser
 author: Martin Thoma
 date: 2008-09-12T22:49:58
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <h2>heißes Wasser gefriert schneller als Kaltes</h2>
 <a href="http://de.wikipedia.org/wiki/Mpemba-Effekt">Mpemba-Effekt</a><h2>"Instant" Eis</h2>

@@ -64,4 +64,3 @@ SITEMAP = {
 
 TOC = {'TOC_HEADERS': '^h[2-3]',
        'TOC_RUN': 'true'}
-

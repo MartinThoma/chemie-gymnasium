@@ -28,8 +28,8 @@ summary: {d['description']}
 slug: {d['filename'].split('.')[0]}
 author: Martin Thoma
 date: {date:%Y-%m-%dT%H:%M:%S}
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 {content}
 """

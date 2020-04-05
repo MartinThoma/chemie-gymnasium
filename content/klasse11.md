@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 11. Klasse
-summary: 
+summary:
 slug: klasse11
 author: Martin Thoma
 date: 2008-12-07T11:17:18
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <table class="style1"><caption> Vorgesehene Wochenstunden für einen Themenbereich</caption>
 <tr><th></th><th colspan="3">Bayern</th>

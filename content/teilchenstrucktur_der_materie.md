@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Die Teilchenstruktur der Materie
-summary: 
+summary:
 slug: teilchenstrucktur_der_materie
 author: Martin Thoma
 date: 2008-12-19T05:25:24
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <cite>~ 460 v. Chr.: Demokrit</cite><blockquote class="style1">
 

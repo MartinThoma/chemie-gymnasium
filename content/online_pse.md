@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Online Periodensystem der Elemente
-summary: 
+summary:
 slug: online_pse
 author: Martin Thoma
 date: 2008-10-13T04:16:48
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <table style="width:100%; border:1px solid black; color:black;">
 <tr><th><a href="/wiki/Gruppe_des_Periodensystems" title="Gruppe des Periodensystems">Gruppe</a><br /> früher:</th><th style="width:3em"><a href="/wiki/Alkalimetalle" title="Alkalimetalle">1</a><br /> I A</th><th style="width:3em"><a href="/wiki/Erdalkalimetalle" title="Erdalkalimetalle">2</a><br /> II A</th><th style="width:3em"><a href="/wiki/Scandiumgruppe" title="Scandiumgruppe">3</a><br /> III B</th><th style="width:3em"><a href="/wiki/Titangruppe" title="Titangruppe">4</a><br /> IV B</th><th style="width:3em"><a href="/wiki/Vanadiumgruppe" title="Vanadiumgruppe">5</a><br /> V B</th><th style="width:3em"><a href="/wiki/Chromgruppe" title="Chromgruppe">6</a><br /> VI B</th><th style="width:3em"><a href="/wiki/Mangangruppe" title="Mangangruppe">7</a><br /> VII B</th><th style="width:3em"><a href="/wiki/Eisengruppe" title="Eisengruppe">8</a><br /> VIII B</th><th style="width:3em"><a href="/wiki/Cobaltgruppe" title="Cobaltgruppe">9</a><br /> VIII B</th><th style="width:3em"><a href="/wiki/Nickelgruppe" title="Nickelgruppe">10</a><br /> VIII B</th><th style="width:3em"><a href="/wiki/Kupfergruppe" title="Kupfergruppe">11</a><br /> I B</th><th style="width:3em"><a href="/wiki/Zinkgruppe" title="Zinkgruppe">12</a><br /> II B</th><th style="width:3em"><a href="/wiki/Borgruppe" title="Borgruppe">13</a><br /> III A</th><th style="width:3em"><a href="/wiki/Kohlenstoffgruppe" title="Kohlenstoffgruppe">14</a><br /> IV A</th><th style="width:3em"><a href="/wiki/Stickstoffgruppe" title="Stickstoffgruppe">15</a><br /> V A</th><th style="width:3em"><a href="/wiki/Chalkogene" title="Chalkogene">16</a><br /> VI A</th><th style="width:3em"><a href="/wiki/Halogene" title="Halogene">17</a><br /> VII A</th><th style="width:3em"><a href="/wiki/Edelgase" title="Edelgase">18</a><br /> VIII A</th><th> </th>

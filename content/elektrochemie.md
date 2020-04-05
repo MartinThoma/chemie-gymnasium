@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Elektrochemie
-summary: 
+summary:
 slug: elektrochemie
 author: Martin Thoma
 date: 2008-11-30T09:04:06
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <div class="knowledge"><p class="knowledge">Diese Lerneinheit setzt die Kenntnis folgender Seiten voraus:</p>
 <ol>
@@ -326,7 +326,7 @@ U<sub>L</sub> = &#916;E<sup>0</sup> (M / M<sup>n+</sup>)= 0, 059 V / n &#8901; l
 <h3>b) Sekundär-Element</h3>
 <p>&#8594; Sekundär-Elemente sind Galvanische Zellen, die der Stromerzeugung dienen und wiederaufladbar sind (Akkus)</p>
 <ul>
-    <li>Anwendung: 
+    <li>Anwendung:
 
 <ul>
     <li>Autobatterie</li>

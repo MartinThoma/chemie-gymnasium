@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Projektdokumentation
-summary: 
+summary:
 slug: projekt
 author: Martin Thoma
 date: 2009-02-06T20:50:35
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <h2>Warum wurde diese Seite erstellt?</h2>
 <p>Seit ich Chemie habe, digitalisiere ich meine Chemiehefte um mir ein leichteres Lernen zu ermöglichen. Dies ist natürlich einiges an Arbeit und ich habe mich sehr schnell nach einer Seite umgesehen die, ähnlich wie LeiFi Physik, Chemie in Unterrichtseinheiten darstellt. Ich habe einige Seiten gefunden, die einzelne Themen wunderbar behandelten, jedoch meist nicht in Klassenstufen eingeteilt waren bzw. bei denen für den Unterricht wichtige Informationen fehlten. Also erstelle ich nun eine eigene Chemie-Webpräsenz um anderen Schülern das lernen zu erleichtern.</p>

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Die chemische Reaktion
-summary: 
+summary:
 slug: chemische_reaktion
 author: Martin Thoma
 date: 2008-12-18T06:08:50
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <h2>Reaktionstypen</h2>
 <h3>1. Synthese</h3>

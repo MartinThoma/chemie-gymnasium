@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Das Massenwirkungsgesetz
-summary: 
+summary:
 slug: massenwirkungsgesetz
 author: Martin Thoma
 date: 2008-09-18T17:36:57
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <p>Anwendung im Labor:</p>
 <p class="gleichung">Fe<sup>3+</sup> + 3 SCN<sup>-</sup><img src="bilder/gleichgewichtspfeil.gif" alt="Gleichgewichtspfeil" />Fe[SCN]<sub>3</sub></p>
@@ -58,7 +58,7 @@ p<sub>1</sub> &#8901; V<sub>1</sub> / T<sub>1</sub> = p<sub>2</sub> &#8901; V<su
 <p>Labordarstellung &#8658; industrielle Masstäbe</p>
 <p>Verwedung von Ammoniak:</p>
 <ul>
-    <li>Herstellung von Salpetersäure 
+    <li>Herstellung von Salpetersäure
 
 <ul>
     <li>Düngemittel</li>

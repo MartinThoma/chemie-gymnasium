@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Impressum
-summary: 
+summary:
 slug: impressum
 author: Martin Thoma
 date: 2008-12-06T09:28:23
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <p>Martin Thoma<br/>
 Schulstraße 21<br/>

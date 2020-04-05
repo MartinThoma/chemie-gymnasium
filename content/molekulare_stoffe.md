@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Molekulare Stoffe
-summary: 
+summary:
 slug: molekulare_stoffe
 author: Martin Thoma
 date: 2008-12-03T06:18:57
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <p class="subtitle">(=Stoffe, die aus Molekülen (=ungeladene Teilchen aus mind. 2 Atomen) aufgebaut sind.)</p>
 <h2>1. Bindungen</h2>

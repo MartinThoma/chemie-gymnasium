@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Protolysegleichgewichte
-summary: 
+summary:
 slug: protolysegleichgewichte
 author: Martin Thoma
 date: 2008-11-10T05:26:45
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <div class="knowledge"><p class="knowledge">Diese Lerneinheit setzt die Kenntnis folgender Seiten voraus:</p>
 <ol>

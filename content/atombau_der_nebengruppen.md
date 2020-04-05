@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Atombau der Nebengruppen
-summary: 
+summary:
 slug: atombau_der_nebengruppen
 author: Martin Thoma
 date: 2008-12-04T13:57:52
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <div class="knowledge"><p class="knowledge">Diese Lerneinheit setzt die Kenntnis folgender Seiten voraus:</p>
 <ol>

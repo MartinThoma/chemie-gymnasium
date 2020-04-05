@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 8. Klasse
-summary: 
+summary:
 slug: klasse8
 author: Martin Thoma
 date: 2008-10-25T08:32:46
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <p><a href="g9-9_warum_chemie_in_der_schule.htm">Warum Chemie in der Schule?</a></p>
 <table class="style1"><caption> Vorgesehene Wochenstunden für einen Themenbereich</caption>
@@ -16,7 +16,7 @@ featured_image:
 </tr>
 <tr><th></th><th>NTG</th>
 </tr>
-<tr><td class="c1">Stoffe und Reaktionen 
+<tr><td class="c1">Stoffe und Reaktionen
 
 <ul>
     <li><a href="gemische_und_reinstoffe.htm">Gemische und Reinstoffe</a></li>

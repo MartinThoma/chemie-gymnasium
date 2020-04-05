@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Warum Chemie in der Schule?
-summary: 
+summary:
 slug: g9-9_warum_chemie_in_der_schule
 author: Martin Thoma
 date: 2008-09-14T19:40:18
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <ul>
     <li>Erwerb von Kenntnissen für den späteren Beruf (Chemiker, Lehrer, Ärzte, Apotheker, Frisöre)</li>

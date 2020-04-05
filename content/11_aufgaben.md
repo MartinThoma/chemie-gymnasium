@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Übungsaufgaben
-summary: 
+summary:
 slug: 11_aufgaben
 author: Martin Thoma
 date: 2008-09-11T08:27:51
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <h1>Übungsaufgaben</h1>
 <p>Berechne die Leerlaufspannung U<sub>L</sub> eines Konzentrationselements aus Cu / Cu <sup>2+</sup> mit den Konzentrationen<br/>

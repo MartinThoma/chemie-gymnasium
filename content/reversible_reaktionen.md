@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Reversible Reaktionen
-summary: 
+summary:
 slug: reversible_reaktionen
 author: Martin Thoma
 date: 2008-09-16T12:51:59
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <p>13.12.2007</p>
 <p><span class="versuch">V<sub>1</sub></span></p>

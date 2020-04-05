@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Übungsaufgaben zum ph-Wert
-summary: 
+summary:
 slug: 11_ph-wert
 author: Martin Thoma
 date: 2008-09-18T22:47:31
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <p>1. <u>Gegeben:</u><u>Gesucht:</u><u>Ergebnis:</u></p>
 <p><img src="clear.gif"><img src="clear.gif"><img src="clear.gif"></p>

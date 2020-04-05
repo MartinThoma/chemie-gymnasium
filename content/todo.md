@@ -1,12 +1,12 @@
 ---
 layout: post
 title: ToDo - Was fehlt dieser Website
-summary: 
+summary:
 slug: todo
 author: Martin Thoma
 date: 2008-12-04T09:07:54
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <p>In meinem Qualitätsverbesserungsprogramm fällt mir immer wieder auf, dass ich ein paar Bilder / Artikel benötige, die ich nicht selbst herstellen kann. Darum schreibe ich hier einfach mal eine Liste und bitte Sie zu Helfen.<br/>
 Und so läuft es ab:</p>

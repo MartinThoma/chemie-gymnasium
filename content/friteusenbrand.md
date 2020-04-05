@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Friteusenbrand
-summary: 
+summary:
 slug: friteusenbrand
 author: Martin Thoma
 date: 2008-09-07T14:54:22
-category: 
-featured_image: 
+category:
+featured_image:
 ---
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/QHSlBxfm6qw&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/QHSlBxfm6qw&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
 
